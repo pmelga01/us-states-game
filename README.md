@@ -11,8 +11,8 @@ Description:
 
     Made with Python using pandas and turtle.
 
-<img width="1512" alt="turtle-crossing-image1.png" src="https://github.com/pmelga01/turtle-crossing-game/blob/main/Us-states-game-image1.png">
+<img width="1512" alt="us-states-game-image1.png" src="https://github.com/pmelga01/us-states-game/blob/main/Us-states-game-image1.png">
 
-<img width="1512" alt="turtle-crossing-image1.png" src="https://github.com/pmelga01/turtle-crossing-game/blob/main/states-to-learn-image1.png">
+<img width="1512" alt="states-to-learn-screenshot" src="https://github.com/pmelga01/us-states-game/blob/main/states-to-learn-image1.png">
 
 
